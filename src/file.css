@@ -1,0 +1,49 @@
+.alpha {
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: auto;
+  margin-bottom: auto;
+  border-radius: 25px;
+  border: dotted black 2px;
+}
+
+.beta {
+  display: grid;
+  grid-template-columns: 50px 450px;
+  column-gap: 10px;
+  position: absolute;
+  left: 200px;
+  top: 950px;
+}
+label {
+  margin-top: 6px;
+}
+
+.fileinput {
+  font-size: larger;
+  background-color: blue;
+  color: white;
+  position: absolute;
+  top: 600px;
+  left: 250px;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  padding: 5px;
+  size: large;
+}
+
+.inp {
+  width: 30px;
+  height: 30px;
+}
+
+.boom {
+  position: absolute;
+  color: gray;
+  top: 650px;
+  left: 250px;
+}

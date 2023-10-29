@@ -1,0 +1,29 @@
+.foot {
+  display: grid;
+  grid-template-columns: 200px 400px;
+  column-gap: 70vw;
+  margin-top: 200px;
+
+  border-top: 2px grey solid;
+}
+
+.b1 {
+  font-size: large;
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 150px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.b2 {
+  font-size: large;
+  background-color: blue;
+  color: white;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
