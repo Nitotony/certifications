@@ -9,9 +9,7 @@ export default function File() {
       </div>
       <div className="beta">
         <input type="checkbox" name="nofile" className="inp" />
-        <label htmlFor="nofile">
-          Nothing to add? Check the box and keep going
-        </label>
+        <p>Nothing to add? Check the box and keep going </p>
       </div>
     </div>
   );
